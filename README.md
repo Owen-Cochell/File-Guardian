@@ -8,6 +8,6 @@ This script is not using any propriatary methods of hiding files, nor dose it us
 Just download and go! File Guardian is a batch file in its basic state(for editing puropses by end-users), so it may be flagged by your anti-virus, or be blocked by Windows smartscreen. You may have to do some finagling and make some exceptions in your anti-virus. You may also have to make your computer "trust" Flile Guardian. This can be doen by right clicking, on File guardian, selecting Properties, and selecting "Trust this file" at the very bottom of the Genral tab.
 # Usage 
 Double-click on File Guardian to run it. Right click on File Guardian and select "edit" to edit it. Should be very simple.
-We recommend checking out the code to File Guardian, as some things need to be defined(Like name of user, name of file, password, ect). Reading the commets should be helpful here.
+I recommend checking out the code to File Guardian, as some things need to be defined(Like name of user, name of file, password, ect). Reading the commets should be helpful here.
 # Conclusion
 This script will stop most users, and with the right configurations, keep your files safe from any unwanted persons. If you have any bugs to report, or any ideas, please leave a comment explicity stating your idea/bug. Thank you!
