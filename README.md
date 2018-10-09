@@ -10,4 +10,4 @@ Just download and go! File Guardian is a batch file in its basic state(for editi
 Double-click on File Guardian to run it. Right click on File Guardian and select "edit" to edit it. Should be very simple.
 I recommend checking out the code to File Guardian, as some things need to be defined(Like name of user, name of file, password, ect). Reading the commets should be helpful here.
 # Conclusion
-This script will stop most users, and with the right configurations, keep your files safe from any unwanted persons. If you have any bugs to report, or any ideas, please leave a comment explicity stating your idea/bug. Thank you!
+This script will stop most users from accessing your personal files, and with the right configurations, this script can be relatively secure. If you have any comments or bugs to report, please start a issue explicitly stating what your comment or bug is in the title. Thank you!
