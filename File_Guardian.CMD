@@ -346,7 +346,7 @@ echo +==========================================================================
 echo This script(File Guardian) creates a hidden directory to store sensitive files.
 echo This script uses system attributes to hide files from a user's veiw.
 echo Please visit our github page for more info:
-echo INSERT_LINK_HERE
+echo https://github.com/Owen-Cochell/File-Guardian
 echo This script Was created By:
 echo +================================================================+
 echo     ____                         ______           __         ____
