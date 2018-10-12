@@ -169,7 +169,7 @@ goto serr
 :: https://github.com/Owen-Cochell/File-Guardian/wiki/Securing-File-Guardian
 :: To change this config, uncomment the second line, and comment out the first.
 :: More info can be found here:
-:: INSERT_LINK_HERE
+:: https://github.com/Owen-Cochell/File-Guardian/wiki/General-Usage
 
 set var=(PASSWORD_HERE)
 ::set /p var=<(PATH_TO_FILE_HERE)
