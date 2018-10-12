@@ -35,7 +35,7 @@ set arc=0
 
 :: This variable defines weather this script will execute different blocks of code depending on if the file is open or closed.
 :: Reasons why you would want to do this here:
-:: INSERT_LINK_HERE
+:: https://github.com/Owen-Cochell/File-Guardian/wiki/Securing-File-Guardian
 :: 0 = Will execute same block regardless of directory status(Default)
 :: 1 = Will execute different blocks depending on directory status.
 
