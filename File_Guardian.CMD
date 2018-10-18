@@ -237,7 +237,7 @@ echo [B]:Lock Directory
 echo [C]:Create Directory
 echo [D]:Info
 echo [E]:Exit
-set /p choice=Enter a letter:
+set /p choice=Enter A Letter:
 goto option
 
 :option
